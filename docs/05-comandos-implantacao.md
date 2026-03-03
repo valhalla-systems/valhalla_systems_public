@@ -170,7 +170,7 @@ node dist/server.js
 
 ---
 
-## 🔐 Segurança — Checklist Antes de Produção
+## 🔐 Segurança - Checklist Antes de Produção
 
 - [ ] npm run build backend sem erros
 - [ ] npm run build frontend sem erros
